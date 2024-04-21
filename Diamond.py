@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
-import os
-os.chdir(r'C:\Users\2559149\OneDrive - Jabil\Desktop\SayMoon\ML - Streamlit\Diamond')
 
 
 # In[2]:
